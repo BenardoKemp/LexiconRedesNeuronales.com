@@ -1,0 +1,4 @@
+import torch
+import torch.nn as nn
+
+loss_fn = nn.BCEWithLogitsLoss()
